@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tannishtha
 - 👀 I’m interested in Machine Learning and Software Development.
-- 💞️ I'm working as an SDE Intern at Apple India and will begin as a SDE at Optum(UHG) this year.
+- ⏰ I'm working as an SDE Intern at Apple India and will begin as a SDE at Optum(UHG) this year.
 - 📫 Connect with me on [linkedIn](www.linkedin.com/in/tm24/)
 
 <!---
