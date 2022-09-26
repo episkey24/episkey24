@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tannishtha
-- 👀 I’m interested in Machine Learning and Software Development.
+- 👀 I’m interested in Software Development and Machine Learning.
 - ⏰ I'm currently working as a Software Engineer at Apple India.
 - 📫 Connect with me on [linkedIn](www.linkedin.com/in/tm24/)
 
